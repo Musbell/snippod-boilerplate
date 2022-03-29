@@ -13,7 +13,7 @@ sqlparse==0.1.16
 static3==0.6.1
 bcdoc==0.16.0
 ecdsa==0.13
-paramiko==1.15.2
+paramiko==2.10.1
 pathspec==0.3.3
 pycrypto==2.6.1
 python-dateutil==2.4.2
